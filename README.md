@@ -1,15 +1,15 @@
 
-    Clona este repositorio</h3><img src="https://raw.githubusercontent.com/othneildrew/Best-README-Template/master/images/logo.png" alt="Logo" width="20" height="20">
-  </a>
+
+    Clona este repositorio 
 
 ```bash
-> git clone https://github.com/Samu330/NyanBot
+> git clone https://github.com/Alguien202/Nezuko-Nyan
 ```
 
 ## Inicia la Instalacion:
 
 ```bash
-> cd NyanBot
+> cd Nezuko-Nyan
 > bash install.sh
 ```
 
